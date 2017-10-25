@@ -5,11 +5,15 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
+		"AdvancedNewFile",
 		"BracketHighlighter",
 		"Color Highlighter",
+		"DocBlockr_Python",
 		"Dockerfile Syntax Highlighting",
 		"GitGutter",
 		"Material Theme",
+		"Material Theme - Appbar",
 		"Package Control",
 		"PlainTasks",
 		"Random Everything",
