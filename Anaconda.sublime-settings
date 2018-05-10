@@ -1,3 +1,6 @@
 {
-    "swallow_startup_errors": true
+    "swallow_startup_errors": true,
+    "pep8_ignore": [
+        "E501"
+    ]
 }
