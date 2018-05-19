@@ -19,6 +19,7 @@
 	],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"copy_with_empty_selection": false,
 	"default_line_ending": "unix",
 	"font_size": 9,
 	"ignored_packages":
