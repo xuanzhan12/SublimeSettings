@@ -43,7 +43,10 @@
 	"material_theme_tabs_separator": true,
 	"material_theme_tree_headings": true,
 	"overlay_scroll_bars": "enabled",
-	"rulers": [80],
+	"rulers":
+	[
+		80
+	],
 	"tab_size": 4,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
