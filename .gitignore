@@ -7,3 +7,4 @@ __pycache__
 *.sublime-workspace
 .SublimeREPLHistory
 oscrypto-ca-bundle.crt
+TextPastryHistory.sublime-settings
