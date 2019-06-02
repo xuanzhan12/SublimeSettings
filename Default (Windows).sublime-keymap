@@ -3,4 +3,6 @@
     {"keys": ["alt+down"], "command": "move", "args": {"by": "stops", "empty_line": true, "forward": true}},
     {"keys": ["shift+alt+up"], "command": "move", "args": {"by": "stops", "empty_line": true, "forward": false, "extend": true}},
     {"keys": ["shift+alt+down"], "command": "move", "args": {"by": "stops", "empty_line": true, "forward": true, "extend": true}},
+    {"keys": ["ctrl+shift+="], "command": "calculate", "args": {"replace": false}},
+    {"keys": ["ctrl+shift+c"], "command": "calculate", "args": {"replace": true}},
 ]
