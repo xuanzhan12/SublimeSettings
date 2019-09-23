@@ -8,6 +8,7 @@
 		"A File Icon",
 		"AdvancedNewFile",
 		"Anaconda",
+		"Babel",
 		"BracketHighlighter",
 		"Calculate",
 		"Color Highlighter",
@@ -16,6 +17,7 @@
 		"GitGutter",
 		"HexViewer",
 		"HTML-CSS-JS Prettify",
+		"JsPrettier",
 		"Material Theme",
 		"Material Theme - Appbar",
 		"MultiEditUtils",
@@ -26,6 +28,7 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeREPL",
-		"Text Pastry"
+		"Text Pastry",
+		"Vue Syntax Highlight"
 	]
 }
