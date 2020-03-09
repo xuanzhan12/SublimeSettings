@@ -1,0 +1,16 @@
+// SublimeLinter Settings - User
+{
+    "paths": {
+        "windows": [
+            "C:\\Program Files\\nodejs"
+        ]
+    },
+    "syntax_map": {
+        "JavaScript (Babel)": "javascript",
+    },
+    "linters": {
+        "eslint": {
+            "selector": "text.html.vue, source.js - meta.attribute-with-value"
+        }
+    }
+}
