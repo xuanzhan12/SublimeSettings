@@ -6,20 +6,19 @@
 	"installed_packages":
 	[
 		"A File Icon",
-		"AdvancedNewFile",
 		"Anaconda",
+		"AutoDocstring",
 		"Babel",
 		"BracketHighlighter",
 		"Calculate",
+		"Color Highlight",
 		"Color Highlighter",
-		"DocBlockr_Python",
 		"Dockerfile Syntax Highlighting",
 		"ESLint Fix",
 		"GitGutter",
 		"HexViewer",
 		"HTML-CSS-JS Prettify",
 		"INI",
-		"JsPrettier",
 		"Kotlin",
 		"Material Theme",
 		"Material Theme - Appbar",
@@ -29,15 +28,18 @@
 		"PlainTasks",
 		"Pretty JSON",
 		"Random Everything",
+		"SCSS",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
+		"SublimeLinter-pylint",
 		"SublimeREPL",
 		"Swift",
 		"Terminal",
 		"Text Pastry",
 		"TOML",
-		"Vue Syntax Highlight"
+		"TypeScript Syntax",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
 	]
 }

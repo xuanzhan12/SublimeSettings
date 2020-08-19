@@ -1,4 +1,5 @@
 {
+    "anaconda_linting": false,
     "swallow_startup_errors": true,
     "pep8_ignore": [
         "E501"

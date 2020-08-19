@@ -1,4 +1,4 @@
-Package Control.cache/
+*.cache/
 Package Control.last-run
 Package Control.merged-ca-bundle
 Package Control.system-ca-bundle

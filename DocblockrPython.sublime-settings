@@ -1,0 +1,4 @@
+{
+    // [PEP0257, docblock, google, numpy, sphinx]
+    "formatter": "google"
+}
